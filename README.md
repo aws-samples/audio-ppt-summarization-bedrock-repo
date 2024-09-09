@@ -15,6 +15,9 @@ Auto summarization an creation of minutes for meeting audio/video recording
 
 Download the following content from resources folder
 1. Sagamaker_launch.pdf     -   Contains presentation content
-2. sagemaker.m4a            -   Audio recording of the preeantation
+
+From the following link download the presentation recording from the following section : AIM214-R1: [NEW LAUNCH!] Introducing Amazon SageMaker Studio, the first full IDE for ML  : 
+http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2019/2019_presentations.html  
+1. sagemaker.m4a            -   Audio recording of the preeantation
 
 Create s3 bucket and create folder named input. Upload the resorce files downloaded in the previous step into this folder
